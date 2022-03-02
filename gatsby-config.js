@@ -10,7 +10,7 @@ module.exports = {
     siteTitle: `Shatil`,
     siteTitleAlt: `Shatil - Portfolio Site`,
     siteHeadline: `Website by Shatil Khan`,
-    siteUrl: `www.shatil-khan.me`,
+    siteUrl: `https://www.shatil-khan.me/`,
     siteDescription: `Playful and Colorful One-Page portfolio featuring Parallax effects and animations`,
     siteLanguage: `en`,
     siteImage: `/banner.jpg`,
