@@ -8,13 +8,13 @@ module.exports = {
     // You can also add new values here to query them like usual
     // See all options: https://github.com/LekoArts/gatsby-themes/blob/main/themes/gatsby-theme-cara/gatsby-config.js
     siteTitle: `Shatil`,
-    siteTitleAlt: `Shatil - Potfolio Site`,
-    siteHeadline: `Cara - Gatsby Theme from @lekoarts`,
-    siteUrl: `https://cara.lekoarts.de`,
+    siteTitleAlt: `Shatil - Portfolio Site`,
+    siteHeadline: `Website by Shatil Khan`,
+    siteUrl: `www.shatil-khan.me`,
     siteDescription: `Playful and Colorful One-Page portfolio featuring Parallax effects and animations`,
     siteLanguage: `en`,
     siteImage: `/banner.jpg`,
-    author: `@lekoarts_de`,
+    author: `shatil_khan`,
   },
   plugins: [
     {
